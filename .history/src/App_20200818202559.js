@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <Route path="/">
+          <Route exact path="/">
             {!currentUser ? (
               <Login />
             ) : (
