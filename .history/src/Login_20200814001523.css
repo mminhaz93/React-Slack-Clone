@@ -1,0 +1,10 @@
+.login{
+
+}
+
+.loginContainer > img{
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 40px;
+}

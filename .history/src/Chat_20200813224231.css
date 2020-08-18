@@ -1,0 +1,17 @@
+.chat {
+  flex: 0.7;
+}
+
+.chatHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  border: 1px solid lightgray;
+}
+
+.chatHeaderRight > p {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}

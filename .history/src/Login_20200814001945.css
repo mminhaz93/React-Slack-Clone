@@ -1,0 +1,16 @@
+.login {
+}
+
+.loginContainer > img {
+  object-fit: cover;
+  height: 100px;
+  width: 100px;
+  margin-bottom: 40px;
+}
+
+.loginContainer > button {
+  margin-top: 50px;
+  text-transform: inherit !important;
+  background-color: #0a8d48;
+  color: white;
+}
