@@ -1,4 +1,4 @@
-Netflix clone application with React.js and Movie API 💬
+React clone application with React.js, Firebase and context api 💬
 
 [👉DEMO LINK](https://react-slack-clone-app.herokuapp.com/)
 
